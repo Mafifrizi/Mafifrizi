@@ -6,9 +6,7 @@
   <br/>
 
   <!-- Dynamic Typing SVG Header -->
-  <a href="https://github.com/Mafifrizi/ARES">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=F85149&center=true&vCenter=true&width=550&lines=Information+Systems+Auditor;Offensive+Security+Researcher;Creator+of+ARES%E2%84%A2+Red+Team+Framework;Autonomous+Active+Directory+Attack+Graphs;Adversary+Emulation+%26+Control+Validation" alt="Typing Header" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=F85149&center=true&vCenter=true&width=550&lines=Information+Systems+Auditor;Offensive+Security+Researcher;Creator+of+ARES%E2%84%A2+Red+Team+Framework;Autonomous+Active+Directory+Attack+Graphs;Adversary+Emulation+%26+Control+Validation" alt="Typing Header" />
 
   <p><i>Tangerang, Indonesia</i></p>
 
@@ -30,7 +28,7 @@ telemetry, and assess modern EDR detection resilience.
 
 ---
 
-### ⚔️ Flagship Project: [ARES™ (Automated Red Team Engagement System)](https://github.com/Mafifrizi/ARES)
+### ⚔️ Flagship Project: ARES™ (Automated Red Team Engagement System)
 
 > An offensive automation framework engineered for authorized adversary emulation, attack path discovery, and defensive control validation.
 
