@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ARES Cyber Dragon Logo -->
-  <img src="https://raw.githubusercontent.com/Mafifrizi/ARES/main/frontend/public/brand/ares-logo.png" width="460" alt="ARES Logo" />
+  <img src="./ares-logo.png" width="460" alt="ARES Logo" />
 
   <br/>
 
